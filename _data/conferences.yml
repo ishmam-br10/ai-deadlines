@@ -753,18 +753,18 @@
   note: All submissions must be done through ARR. More info <a href='https://2024.naacl.org/calls/papers/'>here</a>.
 
 - title: CSCW
-  year: 2024
-  id: cscw24_january
-  link: https://cscw.acm.org/2024/
-  deadline: '2024-01-16 23:59:59'
+  year: 2025
+  id: cscw25_october
+  link: https://cscw.acm.org/2025/
+  deadline: '2024-10-29 23:59:59'
   timezone: UTC-12
-  place: San José, Costa Rica
-  date: November 9-13, 2024
-  start: 2024-11-09
-  end: 2024-11-13
+  place: Bergen, Norway
+  date: October 18 — 22, 2025
+  start: 2025-10-18
+  end: 2025-10-22
   hindex: 31
   sub: HCI
-  note: This is the January cycle.
+  note: This is the October cycle.
 
 - title: IUI
   year: 2024
